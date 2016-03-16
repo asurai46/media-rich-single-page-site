@@ -61,6 +61,12 @@ section {
     margin: 0 auto;
 }
 
+#video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #trailer {
     width: 560px; 
     height: 315px;
